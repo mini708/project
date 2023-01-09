@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "firebase": "^3.9.0",
-    "firebase-admin": "^8.8.0",
+    "firebase": "^9.15.0",
+    "firebase-admin": "^11.4.1",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
     "react-router": "^2.8.1",
